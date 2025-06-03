@@ -31,16 +31,20 @@
 React.js · Next.js · Angular · Tailwind CSS · Redux · Jest
 
 ### 🔧 Backend & Tools
-Node.js · Express · Spring Boot · GraphQL · Webpack · REST APIs
+Node.js · Express · Spring Boot · Django · REST APIs
+
+### 📱 App Development
+- **iOS:** UIKit · SwiftUI · Swift  
+- **Android:** Kotlin · Java · Android Studio
 
 ### ☁️ Cloud & DevOps
-AWS · Microsoft Azure · Google Cloud · Docker · Kubernetes · Terraform · Git · GitLab · Prometheus · Grafana
+AWS · Docker · Kubernetes · Git · GitLab
 
 ### 🤖 AI & ML
-Python for AI · PyTorch · TensorFlow · OpenAI · Jupyter · RAG · NumPy · Pandas
+Python for AI · PyTorch · TensorFlow · OpenAI · Jupyter  · NumPy · Pandas
 
 ### 🗃️ Databases
-MongoDB · MySQL · PostgreSQL · Redis · Firebase · Elasticsearch · GraphQL · Vector DBs
+MongoDB · MySQL · PostgreSQL · Firebase
 
 ---
 
