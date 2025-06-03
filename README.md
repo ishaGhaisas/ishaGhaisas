@@ -1,9 +1,7 @@
 # Hi there, I'm Isha Ghaisas👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/isha-ghaisas/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:isha.ghaisas@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-grey?style=flat&logo=adobeacrobatreader)](https://linktoresume.com)
 
 ---
