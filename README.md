@@ -17,7 +17,7 @@
 ## 🛠 Languages & Technologies
 
 ### 💻 Languages
-
+JavaScript · TypeScript · Python · Java · C++ · SQL · PHP
 
 ### 🌐 Frontend
 React.js · Next.js · Angular · Tailwind CSS · Redux · Jest
