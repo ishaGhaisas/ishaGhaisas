@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/isha-ghaisas/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:isha.ghaisas@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-grey?style=flat&logo=adobeacrobatreader)](https://linktoresume.com)
+[![Resume](https://img.shields.io/badge/Resume-grey?style=flat&logo=adobeacrobatreader)]([https://linktoresume.com](https://drive.google.com/file/d/1cFUkDKO16O08M9epgjUiqxa4e8dLDvJ0/view?usp=sharing))
 
 ---
 
